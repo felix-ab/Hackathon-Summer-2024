@@ -1,5 +1,6 @@
-# Hackathon-Summer-2024
-Hackathon 2024 why-axis team repository
+# Hackathon Summer 2024
+
+Team repository for a single-cell multiome hackathon project on RNA and ATAC association prediction.
 
 
 ## Challenge overview
